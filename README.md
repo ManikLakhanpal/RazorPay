@@ -13,7 +13,7 @@ It demonstrates the essential steps to process payments securely and efficiently
 ## ⚙️ Installation
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/ManikLakhanpal/razorpay-example.git
+    git clone https://github.com/ManikLakhanpal/razorpay.git
     ```
 2. **Install Dependencies:** Run `npm install` in both the client and server directories.
 3. **Configure API Credentials:** Set up your RazorPay API credentials in the `.env` file located in both the client and server folders.
