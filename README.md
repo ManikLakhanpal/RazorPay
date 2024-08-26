@@ -33,6 +33,7 @@ It demonstrates the essential steps to process payments securely and efficiently
 3. Fill in your payment details via the RazorPay portal. 💳
 4. Complete the payment using the available methods. ✅
 5. Receive a confirmation message and check the payment status on the frontend. 🔄
+6. You can check my example [site](https://example.razorpay.w16manik.ninja) that I created for you.
 
 ## 👥 Contributing
 Contributions are highly encouraged! 🙌 If you have suggestions or improvements, please submit a pull request.
